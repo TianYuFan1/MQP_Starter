@@ -1,0 +1,8 @@
+prefix=/home/sfan/mqp_ws/install
+
+Name: web_drive
+Description: Description of web_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
